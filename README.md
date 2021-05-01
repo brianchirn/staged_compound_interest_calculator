@@ -10,12 +10,12 @@ A college student with 10,000 initial investment and 2 career stages (during col
 Sample output:
 
 Enter number of career stages:2
-Enter interest rate for stage 1 12
-Enter interest rate for stage 2 8
-Enter num years for stage 1 5
-Enter num years for stage 2 20
-Enter yearly addition for stage 1 6000
-Enter yearly addition for stage 2 12000
-Enter starting principal:10000
+Enter interest rate for stage 1: 12
+Enter interest rate for stage 2: 8
+Enter num years for stage 1: 5
+Enter num years for stage 2: 20
+Enter yearly addition for stage 1: 6000
+Enter yearly addition for stage 2: 12000
+Enter starting principal: 10000
 Final Principal: 
 874198.5950901803
