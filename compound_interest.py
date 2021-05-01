@@ -27,5 +27,5 @@ user_principal = int(input("Enter starting principal:"))
 
 for i in range(int(user_stages)):
     user_principal = interest_rate_calc(user_principal, int(info[0][i]), int(info[1][i]), int(info[2][i]))
-print("Final Principal after {} years".format(sum()))
+print("Final Principal: ")
 print(user_principal)
