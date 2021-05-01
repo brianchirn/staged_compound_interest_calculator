@@ -17,5 +17,6 @@ Enter num years for stage 2: 20
 Enter yearly addition for stage 1: 6000
 Enter yearly addition for stage 2: 12000
 Enter starting principal: 10000
+
 Final Principal: 
 874198.5950901803
